@@ -1,1 +1,1 @@
-"# formular-validace" 
+Validace formuláře pomocí regex
